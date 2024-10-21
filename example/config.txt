@@ -1,0 +1,2 @@
+Prefix plugins/SplitByLineCount/example/
+Plugin SplitByLineCount inputfile parameters.linecount.txt outputfile SR.fa.
